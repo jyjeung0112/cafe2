@@ -1,0 +1,7 @@
+{
+  "name": "바이브 카페 - 주문 게시판",
+  "description": "따뜻한 감성의 바이브 카페 음료 주문서 및 실시간 금액 계산 웹 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
